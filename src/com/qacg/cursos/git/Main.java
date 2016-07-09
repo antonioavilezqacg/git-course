@@ -1,6 +1,6 @@
 package com.qacg.cursos.git;
 
-import com.qacg.cursos.git.utils.strings.StringUtils;
+import com.qacg.cursos.git.utils.StringUtils;
 
 public class Main {
 

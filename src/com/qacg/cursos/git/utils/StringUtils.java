@@ -1,4 +1,4 @@
-package com.qacg.cursos.git.utils.strings;
+package com.qacg.cursos.git.utils;
 
 public class StringUtils {
 
