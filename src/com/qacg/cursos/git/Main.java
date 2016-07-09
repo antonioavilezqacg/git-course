@@ -1,9 +1,12 @@
 package com.qacg.cursos.git;
 
+import com.qacg.cursos.git.utils.strings.StringUtils;
+
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		System.out.println(StringUtils.toLowerCase("Curso de Git"));
 
 	}
 
